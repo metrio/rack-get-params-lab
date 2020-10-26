@@ -1,0 +1,8 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.automationShell.windows": "",
+    "debug.javascript.terminalOptions": {
+    
+    }
+}
